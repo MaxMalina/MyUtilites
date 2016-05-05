@@ -1,0 +1,9 @@
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\bin\Debug\MyUtilites.exe.config
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\bin\Debug\MyUtilites.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\bin\Debug\MyUtilites.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\obj\Debug\MyUtilites.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\obj\Debug\MyUtilites.MainForm.resources
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\obj\Debug\MyUtilites.Properties.Resources.resources
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\obj\Debug\MyUtilites.csproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\obj\Debug\MyUtilites.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MyUtilites\MyUtilites\obj\Debug\MyUtilites.pdb
